@@ -1,7 +1,6 @@
 # Will AI Break the Planet?
 
 ### The AI Infrastructure Boom and the Race Against the Climate's Point of No Return
-**数十兆円のインフラ投資と、気候の「不可逆ライン」をめぐる時間の賭け**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](https://github.com/Leading-AI-IO/agentic-commerce-economy)
