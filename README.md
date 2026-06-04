@@ -1,6 +1,6 @@
 # Will AI Break the Planet?
 
-**数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」 / The AI Infrastructure Boom and the Race Against the Climate's Point of No Return**
+**数十兆円のAIインフラ投資と、地球温暖化の「不可逆ライン」 / The AI Infrastructure Boom and the Race Against the Climate's Point of No Return**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
