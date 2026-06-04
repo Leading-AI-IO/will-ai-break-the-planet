@@ -1,6 +1,6 @@
 # AIは地球を壊すのか
 
-### 数十兆円のインフラ投資と、気候の「不可逆ライン」
+### 数十兆円のAIインフラ投資と、気候の「不可逆ライン」
 **Will AI Break the Planet? — The AI Infrastructure Boom and the Race Against the Climate's Point of No Return**
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
