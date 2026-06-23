@@ -73,6 +73,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The 10:80:10 Principle**          | The optimal balance for human-AI synergy:「10:80:10」in the AI era.                                             | [GitHub](https://github.com/Leading-AI-IO/the-10-80-10-principle)  |
 | **A Trillion Dollars and a Firebomb** | The Parallel Realities of the AI Era | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) |
 | **The Attention Economy Is Over**   | The end of the attention economy. A design brief for the next-generation SNS. | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
+| **The-forward-deployed-shift** | The Forward Deployed Shift — Where Value Survives When "Building" Is Over | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist)  |
 
 ---
 
