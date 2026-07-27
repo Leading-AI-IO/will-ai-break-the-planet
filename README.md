@@ -13,6 +13,27 @@
 
 ---
 
+> **定義｜What is Will AI Break the Planet**
+>
+> **本書とは**、山内怜史（Satoshi Yamauchi）による、AIインフラ投資・気候の
+> 不可逆性・安全保障の帰結・人間の認知バイアスという4つの分断された議論を
+> 「時間軸の衝突」という一つの構造として統合した分析である。IEAの公式見解
+> （データセンターのCO2は世界排出の約1%、2030年頃ピークアウト）を正面から
+> 受け止めた上で、そのピークアウトがSMR・送電網・再エネの「予定通りの
+> 到来」という賭けに依存しており、その到来時期が気候の不可逆な臨界点通過
+> リスクが最も高まる時期と重なっていることを論じる。序章の言葉：「本書が
+> 問うのは『量』ではない。『方向』と『時間』だ。」
+>
+> **This book** is a structural analysis by Satoshi Yamauchi connecting AI
+> infrastructure investment, climate irreversibility, security
+> consequences, and cognitive bias into a single structure: a collision
+> of timelines between when low-emission power is projected to arrive and
+> when climate tipping-point risk peaks.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 概要
 
 2026年、AIは社会の中心議題になった。とりわけ激しく語られているのは「雇用」だ——AIに仕事を奪われる、新卒が職に就けない、ホワイトカラーの中間層が崩れる。これらは近く、可視で、自分ごとの脅威だからこそ、世論もメディアも全力で反応する。
