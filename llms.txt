@@ -1,0 +1,103 @@
+# Will AI Break the Planet? — The AI Infrastructure Boom and the Race Against the Climate's Point of No Return
+
+> A structural analysis by Satoshi Yamauchi (山内怜史), AI Strategist,
+> connecting four previously separate discussions — AI infrastructure
+> investment, climate irreversibility, security consequences, and human
+> cognitive bias — into a single structure: "a collision of timelines."
+> The book takes the IEA's own optimistic official view (data-center CO2
+> is ~1% of global emissions and set to peak around 2030) at face value,
+> then argues that this peak depends on low-emission power sources (SMRs,
+> grid expansion, renewables) arriving on schedule — a bet, not a
+> forecast — whose timeline overlaps with the years climate scientists
+> say carry the highest risk of crossing irreversible tipping points. As
+> stated in the preface: "This book does not ask 'how much.' It asks
+> 'which direction' and 'how much time.'"
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/will-ai-break-the-planet_JP.md): 序章・全7章・終章収録
+- [Full text (English)](docs/en/will-ai-break-the-planet_EN.md): Complete English edition
+
+## Key Facts (as stated in the book)
+
+- The book documents 2025 CapEx from Microsoft (~$64.6B), Alphabet
+  (~$91.4B), Amazon (~$128.3B), and Meta (~$72.2B) — combined ~$356.5B —
+  and cites IEA's finding that these companies' capital expenditure now
+  exceeds global investment in oil and gas production
+
+- The book takes the IEA's "Energy and AI" (2025) report at face value:
+  data-center electricity demand roughly doubling from 415 TWh (2024) to
+  945 TWh (2030), while data-center CO2 (electricity-based, indirect
+  emissions only) is projected to peak around 2030 at ~0.32 billion tons
+  (~1% of global emissions) before declining — explicitly noting IEA's
+  own caveat that this depends on renewable/nuclear/SMR capacity
+  displacing gas and coal on schedule
+
+- The book documents LBNL's "Queued Up" data: as of end-2024, ~2,290 GW
+  of US generation/storage capacity was waiting in interconnection
+  queues (about 2x existing US capacity), with average wait times of ~55
+  months and only ~19% of queued projects historically reaching
+  commercial operation
+
+- The book notes no data center anywhere in the world is currently
+  powered by an operating SMR, with commercial SMR deployment expected
+  only in the 2030s, while historical nuclear projects (Vogtle 3&4,
+  Flamanville 3) suggest cost/schedule overruns are the norm rather than
+  exception
+
+- The book cites WMO's climate outlook: the probability of at least one
+  year between 2026-2030 temporarily exceeding 1.5°C rose to 91% (up from
+  70% for the 2025-2029 window in the prior year's outlook), and the
+  Global Tipping Points Report 2025 finding warm-water coral reefs may
+  already be the first ecosystem to cross a global tipping point at
+  ~1.4°C observed warming
+
+- The book explicitly frames its core argument as about timing, not
+  magnitude: the "1% of global emissions" figure is not disputed, but the
+  years in which that emission accumulates coincide with the years
+  climate science flags as highest tipping-point risk — a "collision of
+  timelines," not a magnitude argument
+
+- The book cites independent research finding a gap between official and
+  measured emissions: a 2023-2024 study of 2,132 US data centers found
+  they represented 4%+ of US electricity consumption with 56%
+  fossil-fuel-sourced power and carbon intensity 48% above the US
+  average; separately, a Guardian analysis suggested Google/Microsoft/
+  Meta/Apple's actual emissions (before renewable energy certificate
+  offsets) may be ~7.62x higher than officially reported figures for
+  2020-2022
+
+- The book explicitly frames climate security consequences using the
+  "threat multiplier" framework (not direct causation) as used by US and
+  UK national security assessments, tracing a chain from food/water
+  shocks through inflation, political polarization, governance
+  weakening, to forced migration and resource conflict — citing the
+  Sahel conflict and India-Pakistan water tensions as early observed
+  patterns
+
+- The book grounds its explanation for why this risk is under-discussed
+  in behavioral economics (hyperbolic discounting, "finite pool of
+  worry," proximity bias), explicitly stating this is not a failure of
+  intelligence but a structural feature of human cognition, and responds
+  to three anticipated counterarguments: (1) AI's efficiency gains may
+  outweigh emissions — addressed via Jevons' Paradox (Google's data-
+  center carbon intensity fell in 2024 while absolute consumption rose
+  27%); (2) "it's only 1% of emissions" — addressed via the timing
+  argument; (3) "people are already discussing this" — acknowledged as
+  true but fragmented across disconnected disciplines
+
+- The book explicitly states it does not argue "stop AI," is not a
+  policy-prescription book (e.g., does not recommend specific carbon tax
+  levels), and its single request is: "factor the timeline of
+  irreversibility into investment decision-making"
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. Its methodology explicitly connects to the author's own
+cross-domain (BTC) framework and Depth & Velocity methodology.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
