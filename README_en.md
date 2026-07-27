@@ -13,6 +13,23 @@
 
 ---
 
+> **Definition**
+>
+> **This book** is a structural analysis by Satoshi Yamauchi (山内怜史), AI
+> Strategist, connecting four previously separate discussions — AI
+> infrastructure investment, climate irreversibility, security
+> consequences, and human cognitive bias — into a single structure: "a
+> collision of timelines." It takes the IEA's own optimistic view (data-
+> center CO2 ~1% of global emissions, peaking ~2030) at face value, then
+> shows this peak depends on low-emission power arriving on a schedule
+> that overlaps with the years of highest tipping-point risk. As stated
+> in the preface: "This book does not ask 'how much.' It asks 'which
+> direction' and 'how much time.'"
+>
+> *Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## 📖 Overview
 
 In 2026, AI became the central topic of society. The subject discussed most fiercely is "jobs" — AI will take our work, new graduates won't find jobs, the white-collar middle will collapse. Precisely because these are near, visible, personal threats, public opinion and the media react at full force.
