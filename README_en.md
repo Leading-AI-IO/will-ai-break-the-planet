@@ -91,6 +91,7 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **A Trillion Dollars and a Firebomb** | The Parallel Realities of the AI Era | [GitHub](https://github.com/Leading-AI-IO/a-trillion-and-a-firebomb) |
 | **The Attention Economy Is Over**   | The end of the attention economy. A design brief for the next-generation SNS. | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 | **The-forward-deployed-shift** | The Forward Deployed Shift — Where Value Survives When "Building" Is Over | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist)  |
+| **Earned-ai-model-optionality** | AI Models Are Switchable. But Only for Companies That Made Them So | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
 
 ---
 
