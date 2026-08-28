@@ -6,7 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 
 <p align="left">
-  <img src="./assets/ogp_design.png" width="80%">
+  <img src="./assets/ogp_design.png" width="90%">
 </p>
 
 *Read this in other languages: [日本語](README.md)*
@@ -92,6 +92,8 @@ This book is part of an interconnected ecosystem of open-source projects.
 | **The Attention Economy Is Over**   | The end of the attention economy. A design brief for the next-generation SNS. | [GitHub](https://github.com/Leading-AI-IO/the-attention-economy-is-over)  |
 | **The-forward-deployed-shift** | The Forward Deployed Shift — Where Value Survives When "Building" Is Over | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist)  |
 | **Earned-ai-model-optionality** | AI Models Are Switchable. But Only for Companies That Made Them So | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)  |
+| **Us-china-ai-competition** | The Layers of US-China AI Competition — What is being decided is not who is stronger, but who writes the terms | [GitHub](https://github.com/Leading-AI-IO/us-china-ai-competition)  |
+| **The China AI Registry** | The five Chinese AI models you can name are under 1% of the ones China counts | [GitHub](https://github.com/Leading-AI-IO/the-china-ai-registry)  |
 
 ---
 
